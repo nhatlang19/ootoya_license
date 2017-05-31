@@ -1,0 +1,109 @@
+package com.vn.vietatech.api;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import org.ksoap2.serialization.SoapObject;
+import com.vn.vietatech.model.Item;
+import com.vn.vietatech.model.Order;
+import android.content.Context;
+
+public class OrderAPI extends AbstractAPI {
+
+	public OrderAPI(Context context) throws Exception {
+		super(context);
+	}
+
+	public int getNewOrderNumberByPOS(String POSId)
+			throws NumberFormatException, Exception {
+		setMethod(METHOD_GET_NEW_ORDER_BY_POS);
+
+		HashMap<String, String> params = new HashMap<String, String>();
+		params.put("POSId", POSId);
+
+		return Integer.parseInt(callService(params).toString());
+	}
+
+	public ArrayList<Item> getEditOrderNumberByPOS(String orderNo, String posNo,
+			String extNo) throws Exception {
+		setMethod(METHOD_GET_EDIT_ORDER_BY_POS);
+
+		HashMap<String, String> params = new HashMap<String, String>();
+		params.put("orderNo", orderNo);
+		params.put("posNo", posNo);
+		params.put("extNo", extNo);
+
+		SoapObject response = (SoapObject) this.callService(params);
+		SoapObject soapObject = (SoapObject) response.getProperty("diffgram");
+		System.out.println(soapObject.toString());
+
+		ArrayList<Item> items = new ArrayList<Item>();
+		if (soapObject.getPropertyCount() != 0) {
+
+			SoapObject webServiceResponse = (SoapObject) soapObject
+					.getProperty("NewDataSet");
+			
+			for (int i = 0; i < webServiceResponse.getPropertyCount(); i++) {
+				SoapObject tableObject = (SoapObject) webServiceResponse
+						.getProperty(i);
+
+				Item item = new Item();
+				item.setQty(tableObject.getProperty("Qty").toString());
+				item.setSplited(tableObject.getProperty("Splited").toString());
+				item.setPrintStatus(tableObject.getProperty("Status").toString());
+				item.setItemName(tableObject.getProperty("RecptDesc").toString());
+				item.setOrgPrice(tableObject.getProperty("OrgPrice").toString());
+				item.setItemType(tableObject.getProperty("ItemType").toString());
+				item.setItemCode(tableObject.getProperty("ItemCode").toString());
+				item.setModifier(tableObject.getProperty("Modifier").toString());
+				item.setMasterCode(tableObject.getProperty("MasterCode").toString());
+				item.setComboPack(tableObject.getProperty("ComboClass").toString());
+				item.setHidden(tableObject.getProperty("Hidden").toString());
+				if(tableObject.hasProperty("Instruction")) {
+					item.setInstruction(tableObject.getProperty("Instruction").toString());
+				}
+				item.setPromoPrice(tableObject.getProperty("PromoPrice").toString());
+				item.setTotal(tableObject.getProperty("TotAmt").toString());
+				item.setSegNo(tableObject.getProperty("SeqNo").toString());
+				item.setPromoCode(tableObject.getProperty("PromoCode").toString());
+				item.setPromoClass(tableObject.getProperty("PromoClass").toString());
+				item.setPkgPrice(tableObject.getProperty("PkgPrice").toString());
+				item.setPkgQty(tableObject.getProperty("PkgQty").toString());
+				item.setPkgItems(tableObject.getProperty("PkgItems").toString());
+				item.setBlanket(tableObject.getProperty("Blanket").toString());
+				items.add(item);
+			}
+		}
+		return items;
+	}
+
+	public ArrayList<Order> getOrderEditType(String POSBizDate,
+			String currentTable) throws Exception {
+		setMethod(METHOD_GET_ORDER_EDIT_TYPE);
+
+		HashMap<String, String> params = new HashMap<String, String>();
+		params.put("POSBizDate", POSBizDate);
+		params.put("currentTable", currentTable);
+
+		SoapObject response = (SoapObject) this.callService(params);
+		SoapObject soapObject = (SoapObject) response.getProperty("diffgram");
+
+		ArrayList<Order> orders = new ArrayList<Order>();
+		if (soapObject.getPropertyCount() != 0) {
+			SoapObject webServiceResponse = (SoapObject) soapObject
+					.getProperty("NewDataSet");
+			for (int i = 0; i < webServiceResponse.getPropertyCount(); i++) {
+				SoapObject tableObject = (SoapObject) webServiceResponse
+						.getProperty(i);
+				
+				Order order = new Order();
+				order.setOrdExt(tableObject.getProperty("OrdExt").toString());
+				order.setPosPerScode(tableObject.getProperty("PosPerScode").toString());
+				
+				orders.add(order);
+			}
+
+		}
+		return orders;
+	}
+}

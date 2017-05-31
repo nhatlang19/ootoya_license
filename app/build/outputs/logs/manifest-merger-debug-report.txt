@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:11:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/Luan_Lapy/.android/build-cache/f58b4890847f84f6e9bcfb41f402659737e0046f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/Luan_Lapy/.android/build-cache/565853577dacfc9b919f0bd200e5b27031c184b0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/Luan_Lapy/.android/build-cache/9b2511a95f90fc1f3a4945ab9f6f31a43f127a2a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/Luan_Lapy/.android/build-cache/ea9f4cb618471b8a3e6609e6adae6f5ea9c7dca6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/Luan_Lapy/.android/build-cache/aebaa4d825d7edcdeda15fdc1992a3b895246f84/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/Luan_Lapy/.android/build-cache/cea66155668d6133e4d7ff3822ec18650d905911/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/Luan_Lapy/.android/build-cache/6a973fd199ea61e809a19f3e03ebc1c91bab8dff/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/Luan_Lapy/.android/build-cache/67b57895a64048ac355ef45e22d7de1001859096/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:12:9-60
+activity#com.vn.vietatech.combo.MainActivity
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:18:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.vn.vietatech.combo.TableActivity
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:30:13-57
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:28:13-64
+activity#com.vn.vietatech.combo.SettingActivity
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:33:13-66
+activity#com.vn.vietatech.combo.POSMenuActivity
+ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:screenOrientation
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:40:13-59
+	android:name
+		ADDED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml:38:13-66
+uses-sdk
+INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/Luan_Lapy/.android/build-cache/1e89a7ea6fd3fa1f95777cc542b0b3af80805d59/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /Users/Luan_Lapy/.android/build-cache/f58b4890847f84f6e9bcfb41f402659737e0046f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/Luan_Lapy/.android/build-cache/565853577dacfc9b919f0bd200e5b27031c184b0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/Luan_Lapy/.android/build-cache/9b2511a95f90fc1f3a4945ab9f6f31a43f127a2a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/Luan_Lapy/.android/build-cache/ea9f4cb618471b8a3e6609e6adae6f5ea9c7dca6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/Luan_Lapy/.android/build-cache/aebaa4d825d7edcdeda15fdc1992a3b895246f84/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/Luan_Lapy/.android/build-cache/cea66155668d6133e4d7ff3822ec18650d905911/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/Luan_Lapy/.android/build-cache/6a973fd199ea61e809a19f3e03ebc1c91bab8dff/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/Luan_Lapy/.android/build-cache/67b57895a64048ac355ef45e22d7de1001859096/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/AndroidManifest.xml
