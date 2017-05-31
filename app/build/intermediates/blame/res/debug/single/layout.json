@@ -28,44 +28,32 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/order_dialog.xml",
-        "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/order_dialog.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/order_dialog.xml",
+        "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/order_dialog.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/layout/notification_media_cancel_action.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/activity_table.xml",
         "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/activity_table.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -82,10 +70,6 @@
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
         "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/activity_setting.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -108,10 +92,6 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/layout/abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/abc_select_dialog_material.xml"
     },
@@ -120,12 +100,12 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/fragment_dialog.xml",
-        "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/fragment_dialog.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/fragment_dialog.xml",
+        "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/layout/fragment_dialog.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -174,10 +154,6 @@
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",

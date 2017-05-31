@@ -44,10 +44,6 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_switch_thumb_material.xml"
     },
@@ -72,12 +68,12 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
@@ -86,10 +82,6 @@
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
@@ -116,20 +108,16 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/d59b83e419748b36cc24486b76eae322b397e85e/output/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
@@ -140,12 +128,12 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",

@@ -358,6 +358,8 @@
     <string name="btnSave">&lt;- Save</string>
     <string name="copyright">Copyright® 2015</string>
     <string name="hello_world">Hello world!</string>
+    <string name="license">License Key</string>
+    <string name="passcode">Pass Code</string>
     <string name="password">Password</string>
     <string name="search_menu_title">Search</string>
     <string name="setting_database">Database</string>
