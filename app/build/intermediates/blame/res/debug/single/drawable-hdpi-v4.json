@@ -168,12 +168,12 @@
         "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_yellow.xml",
         "source": "/Volumes/Data/Wind/android_projects/ootoya_license/app/src/main/res/drawable-hdpi/button_yellow.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Luan_Lapy/.android/build-cache/cd68580491ecf798df714a066e25edc0f0ddc610/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Volumes/Data/Wind/android_projects/ootoya_license/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",

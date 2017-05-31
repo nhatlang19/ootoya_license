@@ -69,8 +69,8 @@ public class MainActivity extends ActionBarActivity {
 
 				String imei = Utils.getIMEI(context);
 				txtPasscode.setText(imei);
-				String license = licenseUtils.createLicenseKey(imei);
-				System.out.println("license:" + license);
+//				String license = licenseUtils.createLicenseKey(imei);
+//				System.out.println("license:" + license);
 			} else {
 				linearLayoutLicense.setVisibility(LinearLayout.INVISIBLE);
 				linearLayoutLogin.setVisibility(LinearLayout.VISIBLE);
